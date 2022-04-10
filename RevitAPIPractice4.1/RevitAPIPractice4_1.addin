@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIPractice4_1.dll"</Assembly>
+		<AddInId>9588EB98-DF94-4AFD-A02E-8CDD8ECD936E</AddInId>
+		<FullClassName>RevitAPIPractice4_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Plagin wall create</Text>
+	</AddIn>
+</RevitAddIns>
